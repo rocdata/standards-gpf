@@ -1,0 +1,32 @@
+type: ControlledVocabulary
+kind: curriculum_elements
+jurisdiction: GCP
+name: CurriculumElements
+uri: https://rocdata.global/GCP/terms/CurriculumElements
+country: null
+label: Global Proficiency Framework Curriculum Elements
+description: >
+  Controlled vocabulary for describing the different elements within the
+  Global Proficiency Framework For Reading and the Global Proficiency Framework For Mathematics
+  developed by the UNESCO Institute of Statistics (UIS);
+  the U.S. Agency for International Development (USAID);
+  the World Bank Group;
+  the Foreign, Commonwealth and Development Office (FCDO);
+  the Australian Council for Educational Research (ACER);
+  the Bill & Melinda Gates Foundation;
+  and representatives of many other development partner organizations,
+  including several university professors.
+source: http://tcg.uis.unesco.org/wp-content/uploads/sites/4/2020/10/WG-GAML-4-mathematics-4.1.1-Global-proficiency-framework.pdf
+language: en
+terms:
+  - term: domain
+    label: Domain
+  - term: construct
+    label: Construct
+  - term: subconstruct
+    label: Subconstruct
+  - term: grade
+    label: Grade level
+  - term: desrciptor
+    label: Proficiency Level Descriptor
+
