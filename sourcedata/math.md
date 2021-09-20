@@ -1,595 +1,32 @@
+This file contains the data from TABLE 3: KEY KNOWLEDGE AND SKILLS, BY GRADE LEVEL
+from the GLOBAL PROFICIENCY FRAMEWORK FOR MATHEMATICS Grades 1 to 9 availabl at
+http://tcg.uis.unesco.org/wp-content/uploads/sites/4/2020/10/WG-GAML-4-mathematics-4.1.1-Global-proficiency-framework.pdf
 
-Construct
 
-Subconstruct
-N1.1
 
-N1
+__Template__
 
-Whole numbers
+# Domain
+## Construct
+### Subconstruct
+#### Knowledge or Skill
 
-N1.2
-N1.3
-N1.4
-N2.1
+Grade levels:
+- 1
+- 2
+- 3
 
-N2
 
-Fractions
 
-N2.2
-N2.3
-N3.1
+__/Template__
 
-N
 
-Number and
-operations
 
-N3
+__________
 
-Decimals
 
-N3.2
-N3.3
-N3.4
-N4.1
 
-N4
 
-Integers
-
-N5
-
-Exponents and
-roots
-
-N6
-M1
-M
-
-Measurement
-M2
-
-Operations
-across number
-Length, weight,
-capacity,
-volume, area
-and perimeter
-Time
-
-N4.2
-N4.3
-N5.1
-N5.2
-N6.1
-M1.1
-
-Identify, count in and identify the relative magnitude of
-whole numbers
-Represent whole numbers in equivalent ways
-Solve operations using whole numbers
-Solve real-world problems involving whole numbers
-Identify and represent fractions using objects, pictures,
-and symbols, and identify relative magnitude
-Solve operations using fractions
-Solve real-world problems involving fractions
-Identify and represent decimals using objects, pictures,
-and symbols, and identify relative magnitude
-Represent decimals in equivalent ways (including
-fractions and percentages)
-Solve operations using decimals
-Solve real-world problems involving decimals
-Identify and represent integers using objects, pictures, or
-symbols, and identify relative magnitude
-Solve operations using integers
-Solve real-world problems involving integers
-Identify and represent quantities using exponents and
-roots, and identify the relative magnitude
-Solve operations involving exponents and roots
-Solve operations involving integers, fractions, decimals,
-percentages, and exponents
-Use non-standard and standard units to measure,
-compare, and order
-
-M1.2
-
-Solve problems involving measurement
-
-M2.1
-M2.2
-
-Tell time
-Solve problems involving time
-
-1
-
-2
-
-3
-
-Grade
-5
-6
-
-4
-
-7
-
-8
-
-9
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-a
-
-a
-
-a
-
-x
-x
-x
-
-x
-x
-x
-
-x
-x
-x
-
-x
-x
-x
-
-x
-x
-x
-
-x
-x
-x
-
-a
-
-x
-
-x
-
-x
-
-x
-
-x
-
-a
-
-a
-
-x
-x
-
-x
-x
-
-x
-x
-
-x
-x
-
-a
-a
-
-a
-a
-
-x
-
-x
-
-x
-
-a
-
-a
-
-x
-
-x
-
-x
-
-x
-
-a
-
-x
-
-x
-x
-
-x
-x
-
-x
-x
-
-a
-a
-
-x
-
-a
-
-a
-
-x
-x
-
-x
-x
-
-a
-a
-
-x
-
-x
-
-x
-
-a
-a
-see integers
-see integers
-
-x
-
-x
-
-x
-
-x
-
-x
-x
-
-x
-
-x
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-a
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-x
-
-x
-x
-
-a
-x
-
-a
-x
-
-a
-x
-
-a
-x
-
-6 | PAGE
-
-Domain
-
-Construct
-M3
-G1
-
-G
-
-Geometry
-
-G2
-G3
-
-S
-
-A
-
-Statistics and
-probability
-
-S1
-
-Currency
-Properties of
-shapes and
-figures
-Spatial
-visualizations
-Position and
-direction
-Data
-Management
-
-S2
-
-Chance and
-probability
-
-A1
-A2
-
-Patterns
-Expressions
-
-A3
-
-Relations and
-functions
-
-Subconstruct
-
-2
-
-3
-
-4
-
-7
-
-8
-
-9
-
-M3.1
-
-Use different currency units to create amounts
-
-x
-
-x
-
-x
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-G1.1
-
-Recognize and describe shapes and figures
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-G2.1
-
-Compose and decompose shapes and figures
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-G3.1
-
-Describe the position and direction of objects in space
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-S1.1
-S1.2
-S2.1
-S2.2
-A1.1
-A2.1
-
-Retrieve and interpret data presented in displays
-Calculate and interpret central tendency
-Describe the likelihood of events in different ways
-Identify permutations and combinations
-Recognize, describe, extend, and generate patterns
-Evaluate, model, and compute with expressions
-Solve problems involving variation (ratio, proportion, and
-percentage)
-Demonstrate an understanding of equivalency
-Solve equations and inequalities
-Interpret and evaluate functions
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-x
-x
-
-x
-x
-x
-
-x
-
-x
-
-x
-x
-
-a
-x
-
-x
-x
-x
-x
-a
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-a
-x
-
-a
-x
-
-a
-x
-x
-
-A3.1
-
-Algebra
-
-1
-
-Grade
-5
-6
-
-A3.2
-A3.3
-A3.4
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-7 | PAGE
-
-TABLE 3: KEY KNOWLEDGE AND SKILLS, BY GRADE LEVEL
-Domain
-
-Construct
-
-Subconstruct
 
 N1.1
 
@@ -705,7 +142,12 @@ Whole
 numbers
 N1.3
 
-Knowledge or Skill
+
+
+
+
+
+
 
 Solve
 operations
@@ -796,7 +238,7 @@ x
 7
 
 Identify equivalent fractions, including
-identifying equivalances between improper
+identifying equivalences between improper
 fractions and mixed numbers
 
 x
@@ -897,33 +339,18 @@ Express percentages as fractions or mixed
 numbers (and vice versa)
 Add and subtract decimals, including positive
 and negative decimals
-Multipy and divide decimals by whole
-numbers or decimals; divide whole numbers
-by decimals
 
-Solve
-operations
-using
-decimals
-Solve realworld
-problems
-involving
-decimals
-Identify and
-represent
-integers
-using
+Multipy and divide decimals by whole numbers or decimals; divide whole numbers by decimals
 
-Identify and represent quantities using decimal
-notation
+Solve operations using decimals
+Solve real-world problems involving decimals
+Identify and represent integers using
 
-Compare and order decimal numbers,
-including when they are positive or negative
+Identify and represent quantities using decimal notation
 
-Solve real-world problems involving the
-addition, subtraction, multiplication, and
-division of decimals, including currency or
-money problems
+Compare and order decimal numbers, including when they are positive or negative
+
+Solve real-world problems involving the addition, subtraction, multiplication, and division of decimals, including currency or money problems
 Compare and order integers
 
 1
