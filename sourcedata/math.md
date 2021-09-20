@@ -24,70 +24,58 @@ __/Template__
 __________
 
 # N (domain) Number and operations
+
+
+
 ## N1 (construct) Whole numbers
-### N1.1 (subconstruct) 
 
+### N1.1 (subconstruct) Identify, count in and identify the relative magnitude of whole numbers
+#### N1.1.1 (skill) Count, read, and write whole numbers
+#### N1.1.2 (skill) Compare and order whole numbers
+#### N1.1.3 (skill) Skip count forwards or backwards
 
+### N1.2 (subconstruct)  Represent whole numbers in equivalent ways
+#### N1.2.1 (skill) Determine or identify the equivalency between whole numbers represented as objects, pictures, and numerals
+#### N1.2.2 (skill) Use place-value concepts
+#### N1.2.3 (skill) Round whole numbers
+
+### N1.3 (subconstruct) Solve operations using whole numbers
+#### N1.3.1 (skill) Add, subtract, multiply and divide whole numbers
+#### N1.3.2 (skill) Find the double or half of a set of objects
+#### N1.3.3 (skill) Demonstrate fluency with basic addition, subtraction, multiplication and division facts
+#### N1.3.4 (skill) Identify factors and multiples of whole numbers
+#### N1.3.5 (skill) Perform calculations involving two or more operations on whole numbers
+
+### N1.4 (subconstruct) Solve real-world problems involving whole numbers
+#### N1.4.1 (skill) Solve real-world problems involving the addition, subtraction, multiplication, and division of whole numbers, including with measurement and currency units
 
 
 
 ## N2 (construct) Fractions
 
+### N2.1 (subconstruct) Identify and represent fractions using objects, pictures, and symbols, and identify relative magnitude
+#### N2.1.1 (skill) Express a visual representation of a fraction (picture, objects) in fractional notation
+#### N2.1.2 (skill) Identify equivalent fractions, including identifying equivalences between improper fractions and mixed numbers
+#### N2.1.3 (skill) Compare and order fractions and mixed numbers, including when they are positive and negative
 
-Identify, count in and identify the relative magnitude of whole numbers
-
-Count, read, and write whole numbers
-Compare and order whole numbers
-Skip count forwards or backwards
-
-x
-
-Represent whole numbers in equivalent ways
-
-Determine or identify the equivalency between whole numbers represented as objects, pictures, and numerals
-Use place-value concepts
-Round whole numbers
-Add, subtract, multiply and divide whole numbers
-Find the double or half of a set of objects
-Demonstrate fluency with basic addition, subtraction, multiplication and division facts
-Identify factors and multiples of whole numbers
-Peform calculations involving two or more operations on whole numbers
-
-
-N1.3
-
-
-
-
-
-
-
-
-Solve operations using whole numbers
-
-Solve realworld problems involving whole numbers
-Identify and represent fractions using objects, pictures, and symbols, and identify relative magnitude
-
-Solve real-world problems involving the addition, subtraction, multiplication, and division of whole numbers, including with measurement and currency units
-Express a visual representation of a fraction (picture, objects) in fractional notation
-
-
-Identify equivalent fractions, including identifying equivalences between improper fractions and mixed numbers
-
-Compare and order fractions and mixed numbers, including when they are positive and negative
-
-## N3 (construct) Decimals
-
-## N4 (construct) Integers
-
-
-Solve operations using fractions
-Solve realworld problems involving fractions
-Identify and represent decimals using objects, pictures, and symbols, and identify relative magnitude
+### N2.2 (subconstruct) Solve operations using fractions
 
 Add and subtract fractions and mixed numbers
 Multiply and divide fractions by whole numbers, fractions, and mixed numbers
+
+### N2.3 (subconstruct) Solve real-world problems involving fractions
+
 Solve real-world problems involving the addition, subtraction, multiplication, and division of fractions (proper and improper); whole numbers; and mixed numbers
+
+
+## N3 (construct) Decimals
+
+
+
+Identify and represent decimals using objects, pictures, and symbols, and identify relative magnitude
+
+
+
 
 Represent decimals in equivalent ways (including fractions and percentages)
 
@@ -101,18 +89,52 @@ Multiply and divide decimals by whole numbers or decimals; divide whole numbers 
 
 Solve operations using decimals
 Solve real-world problems involving decimals
-Identify and represent integers using
+
+
+
+
+
+
+
+
 
 Identify and represent quantities using decimal notation
 
 Compare and order decimal numbers, including when they are positive or negative
 
 Solve real-world problems involving the addition, subtraction, multiplication, and division of decimals, including currency or money problems
-Compare and order integers
+
+
+
+
+
+## N4 (construct) Integers
+
+
+### N4.1 (subconstruct) Identify and represent integers using objects, pictures, or symbols, and identify relative magnitude
+#### N4.1.1 (skill) Compare and order integers
+
+
+### N4.2 (subconstruct) 
+#### N4.2.1 (skill) 
+#### N4.2.2 (skill) 
+
+
+### N4.3 (subconstruct) 
+#### N4.3.1 (skill) 
+
+
+
+
+
 
 
 
 ## N5 (construct) Exponents and roots
+
+
+
+
 
 
 ## N6 (construct) Operations across number
@@ -138,18 +160,21 @@ N6.1
 
 M1
 
-Length, weight, capacity,
+Length, weight, capacity, volume, area and perimeter
 
 M1.1
 
-objects, pictures, or symbols, and identify relative magnitude
+
 
 Solve operations using integers
-Solve realworld problems involving integers
+Solve real-world problems involving integers
 Identify and represent quantities using exponents and roots, and identify the relative magnitude
 Solve operations involving exponents and roots
 Solve operations involving integers, fractions, decimals, percentages, and exponents
-Use nonstandard and standard
+
+
+
+Use nonstandard and standard units to measure, compare, and order
 
 
 
@@ -170,9 +195,9 @@ Perform calculations involving two or more operations on integers, decimals, fra
 Use non-standard units to estimate, measure, and compare length, weight, volume, and capacity
 
 
-volume, area and perimeter
 
-units to measure, compare, and order
+
+
 
 
 Solve problems involving measurement
@@ -185,7 +210,7 @@ M2.2
 
 Solve problems involving time
 
-Use standard unts to estimate, measure, and compare the length, weight, capacity, and volume of two objects
+Use standard units to estimate, measure, and compare the length, weight, capacity, and volume of two objects
 Convert between units of measures of length, weight, volume, and capacity within a standard measurement system or between different systems of measurement
 Read scales on a variety of measuring tools involving fractions and decimals
 Solve problems involving the perimeter of polygons
@@ -219,7 +244,7 @@ x
 Spatial visualizations
 
 
-Subconstruct
+
 
 M3.1
 
@@ -261,21 +286,26 @@ Identify different views of three-dimentional shapes, including cross sections
 2
 
 
-Position and direction
+## G3 (construct) Position and direction
 
 Describe the position and direction of objects in space
 
 Retrieve and interpret data presented in displays
 
-Data management
 
-Statistics and probability
 
-S1.2
 
-S2
 
-Chance and probability
+
+
+# S (domain) Statistics and probability
+
+
+## S1 (construct) Data management
+
+
+
+## S2 (construct) Chance and probability
 
 
 Calculate and interpret central tendency
