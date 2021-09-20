@@ -1,0 +1,14 @@
+type: ControlledVocabulary
+kind: subjects
+jurisdiction: GCP
+name: Subjects
+uri: https://rocdata.global/GCP/terms/Subjects
+country: null
+language: en
+label: Global Proficiency Framework Subjects
+description: The subjects used in the Global Proficiency Framework standards.
+terms:
+  - term: Reading
+    label: Reading
+  - term: Mathematics
+    label: Mathematics
