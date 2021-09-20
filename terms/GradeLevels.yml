@@ -1,0 +1,28 @@
+type: ControlledVocabulary
+kind: education_levels
+jurisdiction: GCP
+name: GradeLevels 
+uri: https://rocdata.global/GCP/terms/GradeLevels
+country: null
+label: Global Proficiency Framework Grade Levels
+description: Controlled vocabulary for describing the grade levels in the Global Proficiency Frameworks for Reading and Mathematics.
+source: http://tcg.uis.unesco.org/wp-content/uploads/sites/4/2020/10/WG-GAML-4-mathematics-4.1.1-Global-proficiency-framework.pdf
+terms:
+  - term: 1
+    label: Grade 1
+  - term: 2
+    label: Grade 2
+  - term: 3
+    label: Grade 3
+  - term: 4
+    label: Grade 4
+  - term: 5
+    label: Grade 5
+  - term: 6
+    label: Grade 6
+  - term: 7
+    label: Grade 7
+  - term: 8
+    label: Grade 8
+  - term: 9
+    label: Grade 9
