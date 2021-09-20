@@ -25,6 +25,8 @@ terms:
     label: Construct
   - term: subconstruct
     label: Subconstruct
+  - term: skill
+    label: Knowledge or Skill
   - term: grade
     label: Grade level
   - term: desrciptor
