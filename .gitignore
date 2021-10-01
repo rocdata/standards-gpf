@@ -1,3 +1,7 @@
+
+# old docs of the GPF containing only grades 2--6
+sourcedocuments/old
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

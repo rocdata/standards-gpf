@@ -1,5 +1,5 @@
 This file contains the data from TABLE 3: KEY KNOWLEDGE AND SKILLS, BY GRADE LEVEL
-from the GLOBAL PROFICIENCY FRAMEWORK FOR MATHEMATICS Grades 1 to 9 availabl at
+from the GLOBAL PROFICIENCY FRAMEWORK FOR MATHEMATICS Grades 1 to 9 available at
 http://tcg.uis.unesco.org/wp-content/uploads/sites/4/2020/10/WG-GAML-4-mathematics-4.1.1-Global-proficiency-framework.pdf
 
 
@@ -42,7 +42,7 @@ Grade levels:
 #### N1.1.3 (skill) Skip count forwards or backwards
 Grade levels: 2, 3, 4, 5, 6
 
-### N1.2 (subconstruct)  Represent whole numbers in equivalent ways
+### N1.2 (subconstruct) Represent whole numbers in equivalent ways
 #### N1.2.1 (skill) Determine or identify the equivalency between whole numbers represented as objects, pictures, and numerals
 #### N1.2.2 (skill) Use place-value concepts
 #### N1.2.3 (skill) Round whole numbers

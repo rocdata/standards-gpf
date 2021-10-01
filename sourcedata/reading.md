@@ -4,6 +4,8 @@ http://gaml.uis.unesco.org/wp-content/uploads/sites/2/2021/03/Global-Proficiency
 
 
 
+
+
 # DOMAIN: C—COMPREHENSION OF SPOKEN OR SIGNED LANGUAGE
 
 C1.1
@@ -19,10 +21,10 @@ Interpret information at sentence or text level
 Comprehend spoken and signed language at the word or phrase level
 
 C1.2
-Recognize the meaning of common gradelevel words in a short, grade-level continuous text read to or signed for the learner
+Recognize the meaning of common grade level words in a short, grade-level continuous text read to or signed for the learner
 
 C2.1
-Retrieve explicit information in a short gradelevel continuous text read to or signed for the learner
+Retrieve explicit information in a short grade level continuous text read to or signed for the learner
 
 C3.1
 Interpret information in a short grade-level continuous text read to or signed for the learner
@@ -38,6 +40,17 @@ C3.1.1 - Make simple inferences based on explicit information in grade-level con
 C3.1.2 - Infer the meaning of words in grade-level continuous texts read to or signed for the learner
 C3.1.3 - Associate noun and pronoun references in grade-level continuous texts read to or signed for the learner
 C3.1.4 - Demonstrate a broad understanding of grade-level continuous texts read to or signed for the learner
+
+
+
+
+
+
+
+
+
+
+
 
 
 # DOMAIN: D—DECODING
@@ -66,6 +79,12 @@ D2.1.2 - Say or sign fluently a grade-level continuous text
 
 
 
+
+
+
+
+
+
 # DOMAIN: R—READING COMPREHENSION
 
 R1.1
@@ -76,13 +95,10 @@ R1.1.1 - Recognize the meaning of common grade-level words
 
 R1.2.1 - Retrieve a single piece of explicit information from a grade-level text by director close-word matching
 
-Retrieve explicit information in a R1.2.2 - Retrieve a single piece of explicit information from a grade-level continuous
-text by direct- or close-word matching
-grade-level text by direct- or
-close-word matching
+Retrieve explicit information in a
+R1.2.2 - Retrieve a single piece of explicit information from a grade-level continuous text by direct- or close-word matching grade-level text by direct- or close-word matching
 R1.2.3 - Retrieve a single piece of explicit information from a grade-level noncontinuous text (tables, diagrams, graphs) by direct- or close-word matching
-R1.3.1 - Retrieve a single piece of explicit information from a grade-level text by
-synonymous word matching
+R1.3.1 - Retrieve a single piece of explicit information from a grade-level text by synonymous word matching
 R1.3
 Retrieve explicit information in a R1.3.2 - Retrieve a single piece of explicit information from a grade-level continuous
 grade-level text by synonymous text by synonymous word matching
@@ -102,9 +118,7 @@ Interpret information
 R2.1.1 - Identify the meaning of unknown words (including familiar words used in
 
 
-Identify the meaning of unfamiliar ways) and idiomatic and figurative expressions in a grade-level text
-unknown words and
-expressions in a grade-level text
+Identify the meaning of unfamiliar ways) and idiomatic and figurative expressions in a grade-level text unknown words and expressions in a grade-level text
 R2.2.1 - Make simple inferences in a grade-level text by relating pieces of explicit and/or implicit information in the text
 R2.2.2 - Make inferences in a grade-level continuous text by relating pieces of explicit and/or implicit information in the text
 R2.2.3 - Make inferences in a grade-level non-continuous text (e.g., tables, diagrams, graphs) by relating pieces of explicit and/or implicit information
@@ -126,7 +140,7 @@ Identify the main and secondary R2.3.2 - Distinguish between a prominent main id
 
 
 
-# DOMAIN: R—READING COMPREHENSION
+
 
 R3.1
 Identify the purpose and audience of a text
